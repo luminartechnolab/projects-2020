@@ -1,0 +1,325 @@
+./videos/frames/frame_14177.png already added to index.
+./videos/frames/frame_4053.png already added to index.
+./videos/frames/frame_9248.png already added to index.
+./videos/frames/frame_12688.png already added to index.
+./videos/frames/frame_12901.png already added to index.
+./videos/frames/frame_11125.png already added to index.
+./videos/frames/frame_4030.png already added to index.
+./videos/frames/frame_8204.png already added to index.
+./videos/frames/frame_7932.png already added to index.
+./videos/frames/frame_11334.png already added to index.
+./videos/frames/frame_2299.png already added to index.
+./videos/frames/frame_11945.png already added to index.
+./videos/frames/frame_5113.png already added to index.
+./videos/frames/frame_6553.png already added to index.
+./videos/frames/frame_1786.png already added to index.
+./videos/frames/frame_5109.png already added to index.
+./videos/frames/frame_10718.png already added to index.
+./videos/frames/frame_422.png already added to index.
+./videos/frames/frame_6132.png already added to index.
+./videos/frames/frame_6822.png already added to index.
+./videos/frames/frame_7324.png already added to index.
+./videos/frames/frame_13389.png already added to index.
+./videos/frames/frame_688.png already added to index.
+./videos/frames/frame_3424.png already added to index.
+./videos/frames/frame_734.png already added to index.
+./videos/frames/frame_6469.png already added to index.
+./videos/frames/frame_9309.png already added to index.
+./videos/frames/frame_3164.png already added to index.
+./videos/frames/frame_489.png already added to index.
+./videos/frames/frame_11214.png already added to index.
+./videos/frames/frame_9494.png already added to index.
+./videos/frames/frame_1513.png already added to index.
+./videos/frames/frame_4685.png already added to index.
+./videos/frames/frame_5031.png already added to index.
+./videos/frames/frame_644.png already added to index.
+./videos/frames/frame_4963.png already added to index.
+./videos/frames/frame_7458.png already added to index.
+./videos/frames/frame_12144.png already added to index.
+./videos/frames/frame_12878.png already added to index.
+./videos/frames/frame_4812.png already added to index.
+./videos/frames/frame_7863.png already added to index.
+./videos/frames/frame_3757.png already added to index.
+./videos/frames/frame_14367.png already added to index.
+./videos/frames/frame_12550.png already added to index.
+./videos/frames/frame_4957.png already added to index.
+./videos/frames/frame_4833.png already added to index.
+./videos/frames/frame_10078.png already added to index.
+./videos/frames/frame_13546.png already added to index.
+./videos/frames/frame_11628.png already added to index.
+./videos/frames/frame_9188.png already added to index.
+./videos/frames/frame_9395.png already added to index.
+./videos/frames/frame_2962.png already added to index.
+./videos/frames/frame_1137.png already added to index.
+./videos/frames/frame_12537.png already added to index.
+./videos/frames/frame_4701.png already added to index.
+./videos/frames/frame_9455.png already added to index.
+./videos/frames/frame_13397.png already added to index.
+./videos/frames/frame_2874.png already added to index.
+./videos/frames/frame_2138.png already added to index.
+./videos/frames/frame_2664.png already added to index.
+./videos/frames/frame_13057.png already added to index.
+./videos/frames/frame_6494.png already added to index.
+./videos/frames/frame_1834.png already added to index.
+./videos/frames/frame_11977.png already added to index.
+./videos/frames/frame_2941.png already added to index.
+./videos/frames/frame_9703.png already added to index.
+./videos/frames/frame_8252.png already added to index.
+./videos/frames/frame_5024.png already added to index.
+./videos/frames/frame_3980.png already added to index.
+./videos/frames/frame_10345.png already added to index.
+./videos/frames/frame_3988.png already added to index.
+./videos/frames/frame_4127.png already added to index.
+./videos/frames/frame_8762.png already added to index.
+./videos/frames/frame_14048.png already added to index.
+./videos/frames/frame_1599.png already added to index.
+./videos/frames/frame_6487.png already added to index.
+./videos/frames/frame_7434.png already added to index.
+./videos/frames/frame_1799.png already added to index.
+./videos/frames/frame_14072.png already added to index.
+./videos/frames/frame_13017.png already added to index.
+./videos/frames/frame_5466.png already added to index.
+./videos/frames/frame_4480.png already added to index.
+./videos/frames/frame_9079.png already added to index.
+./videos/frames/frame_7133.png already added to index.
+./videos/frames/frame_8885.png already added to index.
+./videos/frames/frame_3942.png already added to index.
+./videos/frames/frame_9692.png already added to index.
+./videos/frames/frame_8181.png already added to index.
+./videos/frames/frame_4917.png already added to index.
+./videos/frames/frame_4813.png already added to index.
+./videos/frames/frame_4981.png already added to index.
+./videos/frames/frame_11458.png already added to index.
+./videos/frames/frame_138.png already added to index.
+./videos/frames/frame_9060.png already added to index.
+./videos/frames/frame_9737.png already added to index.
+./videos/frames/frame_5849.png already added to index.
+./videos/frames/frame_2598.png already added to index.
+./videos/frames/frame_4695.png already added to index.
+./videos/frames/frame_11935.png already added to index.
+./videos/frames/frame_5207.png already added to index.
+./videos/frames/frame_4758.png already added to index.
+./videos/frames/frame_10395.png already added to index.
+./videos/frames/frame_14145.png already added to index.
+./videos/frames/frame_7869.png already added to index.
+./videos/frames/frame_11671.png already added to index.
+./videos/frames/frame_9840.png already added to index.
+./videos/frames/frame_1538.png already added to index.
+./videos/frames/frame_1642.png already added to index.
+./videos/frames/frame_1688.png already added to index.
+./videos/frames/frame_407.png already added to index.
+./videos/frames/frame_7886.png already added to index.
+./videos/frames/frame_12229.png already added to index.
+./videos/frames/frame_7528.png already added to index.
+./videos/frames/frame_12028.png already added to index.
+./videos/frames/frame_10392.png already added to index.
+./videos/frames/frame_11759.png already added to index.
+./videos/frames/frame_9530.png already added to index.
+./videos/frames/frame_3041.png already added to index.
+./videos/frames/frame_8620.png already added to index.
+./videos/frames/frame_13518.png already added to index.
+./videos/frames/frame_8653.png already added to index.
+./videos/frames/frame_3602.png already added to index.
+./videos/frames/frame_12661.png already added to index.
+./videos/frames/frame_7190.png already added to index.
+./videos/frames/frame_14469.png already added to index.
+./videos/frames/frame_2958.png already added to index.
+./videos/frames/frame_2950.png already added to index.
+./videos/frames/frame_9355.png already added to index.
+./videos/frames/frame_9579.png already added to index.
+./videos/frames/frame_514.png already added to index.
+./videos/frames/frame_11731.png already added to index.
+./videos/frames/frame_8244.png already added to index.
+./videos/frames/frame_1117.png already added to index.
+./videos/frames/frame_2959.png already added to index.
+./videos/frames/frame_3098.png already added to index.
+./videos/frames/frame_12469.png already added to index.
+./videos/frames/frame_3388.png already added to index.
+./videos/frames/frame_11429.png already added to index.
+./videos/frames/frame_3095.png already added to index.
+./videos/frames/frame_2389.png already added to index.
+./videos/frames/frame_5306.png already added to index.
+./videos/frames/frame_6427.png already added to index.
+./videos/frames/frame_6205.png already added to index.
+./videos/frames/frame_1791.png already added to index.
+./videos/frames/frame_3373.png already added to index.
+./videos/frames/frame_13050.png already added to index.
+./videos/frames/frame_11047.png already added to index.
+./videos/frames/frame_6390.png already added to index.
+./videos/frames/frame_8954.png already added to index.
+./videos/frames/frame_1461.png already added to index.
+./videos/frames/frame_6993.png already added to index.
+./videos/frames/frame_3295.png already added to index.
+./videos/frames/frame_3780.png already added to index.
+./videos/frames/frame_13970.png already added to index.
+./videos/frames/frame_2050.png already added to index.
+./videos/frames/frame_1087.png already added to index.
+./videos/frames/frame_6787.png already added to index.
+./videos/frames/frame_14063.png already added to index.
+./videos/frames/frame_14373.png already added to index.
+./videos/frames/frame_10214.png already added to index.
+./videos/frames/frame_1747.png already added to index.
+./videos/frames/frame_10057.png already added to index.
+./videos/frames/frame_10196.png already added to index.
+./videos/frames/frame_2476.png already added to index.
+./videos/frames/frame_829.png already added to index.
+./videos/frames/frame_9544.png already added to index.
+./videos/frames/frame_5358.png already added to index.
+./videos/frames/frame_9265.png already added to index.
+./videos/frames/frame_2897.png already added to index.
+./videos/frames/frame_12372.png already added to index.
+./videos/frames/frame_8936.png already added to index.
+./videos/frames/frame_12236.png already added to index.
+./videos/frames/frame_5897.png already added to index.
+./videos/frames/frame_2695.png already added to index.
+./videos/frames/frame_6909.png already added to index.
+./videos/frames/frame_3044.png already added to index.
+./videos/frames/frame_13611.png already added to index.
+./videos/frames/frame_8602.png already added to index.
+./videos/frames/frame_5249.png already added to index.
+./videos/frames/frame_3191.png already added to index.
+./videos/frames/frame_13374.png already added to index.
+./videos/frames/frame_13088.png already added to index.
+./videos/frames/frame_10975.png already added to index.
+./videos/frames/frame_7933.png already added to index.
+Image File: frame_9715.png
+Recognized Document Content:
+ MapReduce: Overview
+words (doc.txt) | sort
+Map
+- Scan input file record-at-a-time
+· Extract something you care about from each record/(keys)
+- Group by'key
+Sort and Shuffle
+MapReduce:Overviewwords(doc.txt)|sortMap-Scaninputfilerecord-at-a-time·Extractsomethingyoucareaboutfromeachrecord/(keys)-Groupby'keySortandShuffle
+.Image File: frame_6896.png
+Recognized Document Content:
+ Word Count (2)
+Case 2:
+· Even the <word,count> pairs don't fit in
+memory
+-(words (doc. txt) | sort | uniq(-
+* where words takes a file and outputs the words in it,
+one per a line
+WordCount(2)Case2:·Eventhe<word,count>pairsdon'tfitinmemory-(words(doc.txt)|sort|uniq(-*wherewordstakesafileandoutputsthewordsinit,oneperaline
+.Image File: frame_7777.png
+Recognized Document Content:
+ Word Count (2)
+Case 2:
+- Even the <word,count> pairs don't fit in
+memory
+(Words (doc. txt) | sort | uniq(-c
+- where words takes a file and outputs the words in it,
+one per a line
+Case 2 captures the essence of MapReduce
+- Great thing is that it is naturally parallelizable
+WordCount(2)Case2:-Eventhe<word,count>pairsdon'tfitinmemory(Words(doc.txt)|sort|uniq(-c-wherewordstakesafileandoutputsthewordsinit,oneperalineCase2capturestheessenceofMapReduce-Greatthingisthatitisnaturallyparallelizable
+.Image File: frame_11901.png
+Recognized Document Content:
+ MapReduce: The Map Step
+Input
+key-value pairs
+MapReduce:TheMapStepInputkey-valuepairs
+.Image File: frame_1501.png
+Recognized Document Content:
+ Programming Model: MapReduce
+Warm-up task:
+We have a huge text document
+Count the number of times each distinct word
+appears in the file
+- Sample applications
+* Analyze web server logs to find popular URLS
+- Term statistics for search
+ProgrammingModel:MapReduceWarm-uptask:WehaveahugetextdocumentCountthenumberoftimeseachdistinctwordappearsinthefile-Sampleapplications*AnalyzewebserverlogstofindpopularURLS-Termstatisticsforsearch
+.Image File: frame_12370.png
+Recognized Document Content:
+ MapReduce: The Map Step
+Input
+Intermediate
+key-value pairs
+key-value pairs
+map
+MapReduce:TheMapStepInputIntermediatekey-valuepairskey-valuepairsmap
+.Image File: frame_6913.png
+Recognized Document Content:
+ Word Count (2)
+Case 2:
+· Even the <word,count> pairs don't fit in
+memory
+-(words (doc. txt) | sort | uniq(-
+* where words takes a file and outputs the words in it,
+one per a line
+WordCount(2)Case2:·Eventhe<word,count>pairsdon'tfitinmemory-(words(doc.txt)|sort|uniq(-*wherewordstakesafileandoutputsthewordsinit,oneperaline
+.Image File: frame_6345.png
+Recognized Document Content:
+ Word Count (2)
+Case 2:
+- Even the <word,count> pairs don't fit in
+memory
+-(words (doc. txt) | sort | uniq -c
+- where words takes a file and outputs the words in it,
+one per a line
+WordCount(2)Case2:-Eventhe<word,count>pairsdon'tfitinmemory-(words(doc.txt)|sort|uniq-c-wherewordstakesafileandoutputsthewordsinit,oneperaline
+.Image File: frame_592.png
+Recognized Document Content:
+ Programming Model: MapReduce
+Warm-up task:
+We have a huge text document
+Count the number of times each distinct word
+appears in the file
+- Sample applications
+· Analyze web server logs to find popular URLS
+- Term statistics for search
+ProgrammingModel:MapReduceWarm-uptask:WehaveahugetextdocumentCountthenumberoftimeseachdistinctwordappearsinthefile-Sampleapplications·AnalyzewebserverlogstofindpopularURLS-Termstatisticsforsearch
+.Image File: frame_9335.png
+Recognized Document Content:
+ MapReduce: Overview
+words (doc.txt) | sort
+Map
+- Scan input file record-at-a-time
+· Extract something you care about from eachkrecord/(keys)
+- Group by key
+Sort and Shuffle
+MapReduce:Overviewwords(doc.txt)|sortMap-Scaninputfilerecord-at-a-time·Extractsomethingyoucareaboutfromeachkrecord/(keys)-GroupbykeySortandShuffle
+.Traceback (most recent call last):
+  File "/home/test56/Documents/ContentBasedVideoRetrievel/ocr.py", line 293, in <module>
+    main(args.input_directory)
+  File "/home/test56/Documents/ContentBasedVideoRetrievel/ocr.py", line 282, in main
+    get_text_from_files(vision, index, filenames)
+  File "/home/test56/Documents/ContentBasedVideoRetrievel/ocr.py", line 236, in get_text_from_files
+    texts = vision.detect_text(input_filenames)
+  File "/home/test56/Documents/ContentBasedVideoRetrievel/ocr.py", line 77, in detect_text
+    responses = request.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.6/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/googleapiclient/http.py", line 892, in execute
+    headers=self.headers,
+  File "/usr/local/lib/python3.6/dist-packages/googleapiclient/http.py", line 172, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/oauth2client/transport.py", line 175, in new_request
+    redirections, connection_type)
+  File "/usr/local/lib/python3.6/dist-packages/oauth2client/transport.py", line 282, in request
+    connection_type=connection_type)
+  File "/usr/local/lib/python3.6/dist-packages/httplib2/__init__.py", line 1991, in request
+    cachekey,
+  File "/usr/local/lib/python3.6/dist-packages/httplib2/__init__.py", line 1651, in _request
+    conn, request_uri, method, body, headers
+  File "/usr/local/lib/python3.6/dist-packages/httplib2/__init__.py", line 1558, in _conn_request
+    conn.request(method, request_uri, body, headers)
+  File "/usr/lib/python3.6/http/client.py", line 1254, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1300, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1249, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.6/http/client.py", line 1075, in _send_output
+    self.send(chunk)
+  File "/usr/lib/python3.6/http/client.py", line 996, in send
+    self.sock.sendall(data)
+  File "/usr/lib/python3.6/ssl.py", line 975, in sendall
+    v = self.send(byte_view[count:])
+  File "/usr/lib/python3.6/ssl.py", line 944, in send
+    return self._sslobj.write(data)
+  File "/usr/lib/python3.6/ssl.py", line 642, in write
+    return self._sslobj.write(data)
+KeyboardInterrupt

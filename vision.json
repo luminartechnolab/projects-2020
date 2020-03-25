@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rare-ethos-272211",
+  "private_key_id": "8266a40d23307031f153c6fe4802d78d58bb4cd8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtOodh786tf2M4\nGEqVuHdTOhvSHH+HJRpPf2k54B4nbrFFcEEF4QbmeR2uJ3QY/9VfE9zSXJgvzhsR\nALh4wNQ9jESDMo5ncLko5JsqHRjSosasU3W1xaTV+D4i+FCi4EDk5vsd3KEh+Fat\nR9qIFZZW8n7SbgWulOfwXuOn7XmPtQNoqAke3eBUlBhbGVNT/wGi2LVFl6PQwuZx\nS8+apG9KWTC8L9iFlxBv6v1CXv1p4FZUPN55ukYa+8aNVHM8eh7ZhkXtDAyQWdME\nps06Dr13iUlwi4p2aAtPSl3vq4N8E3JsvpnOZgFSL4zyD8nTKKmDI8BhEORwgeDM\nD5TC+qcDAgMBAAECggEAEqK078dG77Pq7kecC9FQHPGnuTR8T632ek5ATraakoQT\nqV8IemPD70Vg+Qb2NBOfAQnM/AsetX3cZuQx9Dj3sYtbz4AVK8byVGuLeb4EQ/IO\nTM70XygHsfEbwNKqh2simr1yjxAuJs5lh2IEfhanGWwgUpj9dCjsGW12hkPuNj8F\n6kZGYXz+3A1tlUf2azA+HXczv11Dj/tntjqqUWVrCD1qsZ/gk1zR2gMP9ZuOtWux\n7ibsM25uYc7P4o1pSYFMx81X5moSQ0cS+oLqduUMDJCwpi2YOztkEgjNz9/MX3XU\n2Bfh9ugInitiGjdFXY7/n/8clTyURwaryUsQUSb70QKBgQDbDTgwfti9RqdbndBx\n+TSnVdwbpWxdHROOWHqKVmB0fD/GIDwGyiGSITbEvhYt+Im1bvEUqFRTJdm6h2gx\nduNR5XgkPpt2VuolrQQBqDfjpaTeu4j2/+KhRticN1fbd3QS0k9hkjkUSJ0o7wrU\nqMWEoaqgOTxhUKiLkfrhbrP6ywKBgQDKcqT3+DEuS/f7hLeywDrIYUwAyXcxEGke\ncwwMm7LFbd9oMvh4yZTYe/Y/AQpCpOWCUNpE+EN/UAK/GsdJZmkTVMgNI3gUFmii\nvh6gXgSXgdAvJpqqSMWQRss07qxdmL/MtNql08uhqW8itDyQYujFhJOfize95qZi\nXEQ1ZahlqQKBgBTp2TCAG89OXJIZqhoHkehcASy+iW8GZKSVe/WTM5hLeIdA8pov\nWC8sbp8wCswOy47/7ZJsU8iwd24gmWkHkcJy5xqGw67zs10vfI9v8Q4R9YCyZOw4\nF/oP2oRnoEK6z+EwJRYKsNpn6GFNGTqedmUoTjMH4+Tin4TbxhkZyaMrAoGANR0C\n3vPEo2rW8qwNLd51DaFJOWOh28N8cLqqTJyEuHttA39r5PSuEmXjYwA42uc8N4ZS\n3Yls2/f34H98DWvK4YF6wsetd0exyBCtJFHGTqGGJviv10EkZAfOxGJh4mRy3ZgN\nTThV0mILgEVdJlxsyXVQ7aiuxSnAOUoPsxqqpZECgYEAkeZTpz9G2vZBM76kFLWi\nKyTCD9Z+tc0Gpepej0TRSiapvUVwZEzoQnBcIkOgH9ajtsFq5C9EO3o7bA2XLDUh\nURi/oMngRRudyT4nTRh6viunOMRb0lYkQN7ExBixshwIyrmjvBr+GADw4nkubwBw\nPdCBSIybuponnlc96/qNgOM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "content-based-video-retreival@rare-ethos-272211.iam.gserviceaccount.com",
+  "client_id": "106530262744291105709",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/content-based-video-retreival%40rare-ethos-272211.iam.gserviceaccount.com"
+}
